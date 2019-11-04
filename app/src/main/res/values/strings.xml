@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ISO7816 Reader</string>
+    <string name="read">Read</string>
+    <string name="idle">Idle</string>
+    <string name="reading">Reading...</string>
+    <string name="cancel">Cancel</string>
+</resources>
